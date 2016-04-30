@@ -1,8 +1,0 @@
-digraph G {
-	0 -> 0 [label=0.58];
-	0 -> 1 [label=0.42];
-	1 -> 0 [label=0.25];
-	1 -> 1 [label=0.75];
-	0 [shape=doublecircle, label="0 - Pi= 1 - [ Multi-variate Gaussian distribution --- Mean: [ 125.772 60.772 ] ]"];
-	1 [shape=circle, label="1 - [ Multi-variate Gaussian distribution --- Mean: [ 139.827 -67.647 ] ]"];
-}
